@@ -316,7 +316,7 @@ function App() {
                       Firebase, EJS Template Engine, JSON Web Token, Multer, Express Validator, Socket.io, 
                       JSON Server, Asynchronous Javascript, Event Loop, Unit Testing, Javascript, Typescript,
                        HTML, CSS, Bootstrap, Docker, Microservices using Node JS, RabbitMQ, API Gateway, 
-                       Netlify, Render, Git, Github etc.
+                       Netlify, Vercel, Render, Git, Github etc.
                     </p>
                 </div>
                 
@@ -332,7 +332,7 @@ function App() {
         <div className="container">
             <div className="row">
                 <div className="col-sm-12 mb-5">
-                    <h1 className="text-center bg-secondary">Education</h1>
+                    <h2 className="text-center bg-secondary">Education</h2>
                          
                           <p className="p5">1. BSc in EEE (September 2018), United International 
                             University, Dhaka, Bangladesh (CGPA-3.93/4)</p>
@@ -352,7 +352,7 @@ function App() {
         <div className="container">
             <div className="row">
                 <div className="col-sm-12 text-left mb-5">
-                    <h1 className="text-center bg-secondary">Experience</h1>
+                    <h2 className="text-center bg-secondary">Experience</h2>
                     <p className="p2">1. Web Development [Doing it personally] (September 19, 2021 - Present),
                         Dhaka, Bangladesh
 
@@ -488,7 +488,7 @@ function App() {
             <div className="row align-items-center justify-content-center">
                 <div className="col-12 text-center">
                     <div className="footer-logo mb-3 mb-md-0">
-                        <h1 className="bg-secondary">Contact Me</h1>
+                        <h2 className="bg-secondary">Contact Me</h2>
                         <p>Gmail ID : ronyraihan141@gmail.com</p>
                     </div>
                 </div>
